@@ -4,7 +4,7 @@
 ★ ° . .　　　.　☾ °☆ 　. * ● 　★ ° . .　　　.　☾ °☆ 　. * ● 　★ ° . .　　　.　☾ °☆ 　. * ●<br>
 
 ### About me
-**I've been doing buBbounty since 2024.03.23.**  
+**I've been doing Bugbounty since 2024.03.23.**  
 **I have several channels about BugBounty and publish my tools , payloads here**
 ### Follow Me
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nagavicyn2)
